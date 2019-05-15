@@ -14,7 +14,4 @@ export class RecipesPage implements OnInit {
     this.recipes = this.recipesService.getAllRecipes();
   }
 
-
-  
-
 }
